@@ -3,7 +3,7 @@
 
 
 ## 💻 I’m currently working on:
-- [different method to solve Traveling Salesman Problem](https://github.com/HSzymski/Traveling-Salesman-Problem)
+- [different methods to solve Traveling Salesman Problem](https://github.com/HSzymski/Traveling-Salesman-Problem)
 
 
 ## 🌱 I’m currently learning:
