@@ -41,3 +41,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hszymski&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hszymski&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" style="vertical-align:centre; margin:4px" />
 </a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=hszymski&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hszymski&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" style="vertical-align:centre; margin:4px" />
+</a>
