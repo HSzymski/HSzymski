@@ -15,7 +15,7 @@
 
   
 ## ⚡ Fun fact:
-- **Big fan of LEGO Star Wars minifigures**
+- **I'm big fan of LEGO Star Wars minifigures**
 
    
 <h3 align="left">Connect with me:</h3>
