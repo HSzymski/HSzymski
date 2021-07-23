@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
 <h3 align="center">A passionate in AI</h3>
 <br>
+
 ## 💻 I’m currently working on:
 - [different methods to solve Traveling Salesman Problem](https://github.com/HSzymski/Traveling-Salesman-Problem)
 <br>
+
 ## 🌱 I’m currently learning:
 - **Python libraries for AI like Pytorch, Sklearn**
 <br>
+
 ## 📫 How to reach me:
 - **hubertszymski@gmail.com**
 <br>
+
 ## ⚡ Fun fact:
 - **I'm big fan of LEGO Star Wars minifigures**
 <br> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hubert-szymski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hubert-szymski/" height="30" width="40" /></a>
