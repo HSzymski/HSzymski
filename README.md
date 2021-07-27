@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
 <h3 align="center">A passionate in AI</h3>
 <br>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=hszymski.hszymski) [![Github](https://img.shields.io/github/followers/hszymski?label=Followers&logo=Github)](https://github.com/hszymski)
 
 ## 💻 I’m currently working on:
