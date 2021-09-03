@@ -6,7 +6,7 @@
 
 ## 💻 I’m currently working on:
 - [Different methods to solve Traveling Salesman Problem](https://github.com/HSzymski/Traveling-Salesman-Problem)
-- [Methods to solve basic problems in Data Science](https://github.com/HSzymski/DataScience)
+- [Methods to solve basic problems in Data Science](https://github.com/HSzymski/Data-Science)
 <br>
 
 ## 🌱 I’m currently learning:
