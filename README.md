@@ -5,7 +5,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=hszymski.hszymski) [![Github](https://img.shields.io/github/followers/hszymski?label=Followers&logo=Github)](https://github.com/hszymski)
 
 ## 💻 I’m currently working on:
-- [Different methods to solve Traveling Salesman Problem](https://github.com/HSzymski/Traveling-Salesman-Problem)
 - [Methods to solve basic problems in Data Science](https://github.com/HSzymski/Data-Science)
 <br>
 
