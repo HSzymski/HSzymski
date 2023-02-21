@@ -4,21 +4,9 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=hszymski.hszymski) [![Github](https://img.shields.io/github/followers/hszymski?label=Followers&logo=Github)](https://github.com/hszymski)
 
-## 💻 I’m currently working on:
-- [Methods to solve basic problems in Data Science](https://github.com/HSzymski/Data-Science)
-<br>
-
-## 🌱 I’m currently learning:
-- **Python libraries for AI like Pytorch, Sklearn**
-<br>
-
 ## 📫 How to reach me:
 - **hubertszymski@gmail.com**
 <br>
-
-## ⚡ Fun fact:
-- **I'm big fan of LEGO Star Wars minifigures**
-<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
